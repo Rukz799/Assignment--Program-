@@ -1,15 +1,10 @@
-
 #include <stdio.h>
-
 int main()
 {
     int week;
-
   // variable declaration area
     printf("Enter week number (1-7): ");
     scanf("%d", &week);
-
-
     if(week == 1)
     {
         printf("Monday, ICT Sir Asfand yar");
